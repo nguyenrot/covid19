@@ -1,0 +1,48 @@
+@media (max-width:1023px){
+    .content__item h2{
+        font-size: 16px;
+    }
+    .content__item h3{
+        font-size: 30px;
+    }
+}
+@media (max-width:739px){
+    header{
+        height: 20vh;
+    }
+    .heading h1{
+        font-size: 35px;
+    }
+    .heading h4{
+        font-size: 15px;
+    }
+    .content__items{
+        width: 80%;
+    }
+    .content__item h2{
+        font-size: 13px;
+    }
+    .content__item h3{
+        font-size: 20px;
+    }
+    .content__all{
+        height: 50px;
+    }
+    .content__all h2{
+        font-size: 15px;
+    }
+    .content__all h3{
+        font-size: 20px;
+    }
+    #copy_right{
+        font-size: 10px;
+    }
+}
+@media (max-width:320px){
+    .heading h1{
+        font-size: 25px;
+    }
+    .heading h4{
+        font-size: 13px;
+    }
+}
